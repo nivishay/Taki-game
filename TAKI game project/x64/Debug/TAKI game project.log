@@ -1,0 +1,7 @@
+﻿  Source.c
+C:\Users\nivii\source\repos\TAKI game project\Source.c(142,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\nivii\source\repos\TAKI game project\Source.c(360,10): warning C4101: 'j': unreferenced local variable
+C:\Users\nivii\source\repos\TAKI game project\Source.c(424,10): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+C:\Users\nivii\source\repos\TAKI game project\Source.c(447,10): warning C4101: 'j': unreferenced local variable
+C:\Users\nivii\source\repos\TAKI game project\Source.c(637,6): warning C4101: 'i': unreferenced local variable
+  TAKI game project.vcxproj -> C:\Users\nivii\source\repos\TAKI game project\x64\Debug\TAKI game project.exe
